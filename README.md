@@ -1,57 +1,32 @@
-# Current Goal & Priorities
+# WHERE AM I GOING?
 
-This is my **current plan based on my situation right now**. It may change as my personal, financial, or career situation changes.
+**Build an independent international career.**
 
-## 🎯 Main Goal
+---
 
-My main goal is to build a stable career and income through programming.
+# RIGHT NOW
 
-I want to:
+→ Frontend skills
+→ English
+→ Income
+→ Portfolio
 
-* Earn a good income from programming.
-* Build real products and solve real problems.
-* Gain new and professional experience.
-* Become a strong and independent Frontend Developer.
-* Work with companies and people from anywhere in the world.
-* Work remotely or as a freelancer without being tied to one country or location.
+---
 
-## 🚀 Current Priorities
+# WHY I STARTED
 
-1. **💰 Build income**
+I love solving problems by building things.
 
-   * Find a Frontend job.
-   * Take freelance and small projects.
-   * Focus on financial stability.
+I enjoy both sides of it: solving a problem and creating something from scratch. Building beautiful and user-friendly interfaces, turning ideas into interactive experiences, and designing the architecture of a system genuinely makes me happy.
 
-2. **🤝 Grow my network**
+There are many other ways to make money. I could work in a store from morning to afternoon, receive a monthly salary, and have the rest of the day free to do whatever I want.
 
-   * Stay connected with previous teammates.
-   * Meet developers, designers, founders, and companies.
-   * Use my network to find new opportunities.
+But I didn't choose that path.
 
-3. **💼 Find Frontend opportunities**
+I don't want to spend my whole life doing the same repetitive work — working, working, working — especially if I don't enjoy what I do.
 
-   * Apply for suitable React / Next.js jobs.
-   * Look for both local and international opportunities.
+I want to live.
 
-4. **🧑‍💻 Take small projects**
+To me, life means discovering new things, experiencing them, and constantly learning.
 
-   * Build websites, dashboards, landing pages, and other small projects.
-   * Use them to gain experience, income, and new connections.
-
-5. **📁 Improve my previous project**
-
-   * Turn my previous experience into a strong Resume / Case Study.
-   * Clearly explain what I built, what problems I solved, and what I learned.
-
-6. **📄 Improve my professional presence**
-
-   * Keep my Resume, GitHub, LinkedIn, and Portfolio updated.
-   * Make my projects easy to understand.
-   * Add a good README, technical explanation, and Demo when possible.
-   * Make sure each project clearly shows my role and contribution.
-
-7. **📚 Keep learning**
-
-   * Learn based on real work and current goals.
-   * Focus on skills that help me get better jobs, projects, and opportunities.
+This path is difficult, but I love the difficulty of it.
