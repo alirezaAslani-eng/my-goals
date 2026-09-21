@@ -6,10 +6,10 @@
 
 # RIGHT NOW
 
-→ Frontend skills
-→ English
-→ Income
-→ Portfolio
+- Frontend skills
+- English
+- Income
+- Portfolio
 
 ---
 
